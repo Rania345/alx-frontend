@@ -22,12 +22,12 @@ How to use HTML tags to structure a web page
 
 ## Resources:
 Read or watch:
-* [HTML - elements of a web page] (https://intranet.hbtn.io/concepts/139)
-* [HTML 5.2] (https://intranet.hbtn.io/rltoken/0qrWxRjFnohd-DMZwIakuA)
-* [HTML: HyperText Markup Language | MDN] (https://intranet.hbtn.io/rltoken/M-CcOLx8YG8znnc4qxSscg)
-* [HTML Reference - A free guide to all HTML elements and attributes] (https://intranet.hbtn.io/rltoken/5O-P-PsGJ5tXOOmKZwTNvg)
-* [Can I use... Support tables for HTML5, CSS3, etc] (https://intranet.hbtn.io/rltoken/qonyw8QCI9Bf8jjiib9tug)
-* [HTML Cheat Sheet - WebsiteSetup] (https://intranet.hbtn.io/rltoken/IL-IEL5JBB6FuDME5oZNRQ)
+- [HTML - elements of a web page](https://intranet.hbtn.io/concepts/139)
+- [HTML 5.2](https://intranet.hbtn.io/rltoken/0qrWxRjFnohd-DMZwIakuA)
+- [HTML: HyperText Markup Language | MDN](https://intranet.hbtn.io/rltoken/M-CcOLx8YG8znnc4qxSscg)
+- [HTML Reference - A free guide to all HTML elements and attributes](https://intranet.hbtn.io/rltoken/5O-P-PsGJ5tXOOmKZwTNvg)
+- [Can I use... Support tables for HTML5, CSS3, etc](https://intranet.hbtn.io/rltoken/qonyw8QCI9Bf8jjiib9tug)
+- [HTML Cheat Sheet - WebsiteSetup](https://intranet.hbtn.io/rltoken/IL-IEL5JBB6FuDME5oZNRQ)
 
 ## Files:
 [0. Create your first webpage](./0-index.html)
